@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Patnaik</h1>
-<h3 align="center">A passionate learning new technologies.</h3>
+<h3 align="center">A passionate lad learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan2013&label=Profile%20views&color=0e75b6&style=flat" alt="chandan2013" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **everything.**
+- 🌱 elcome to my GitHub! I’m an aspiring data engineer, passionate about building robust, scalable data pipelines and transforming raw data into actionable insights. Here, you’ll find projects that explore everything from data wrangling and ETL processes to working with cloud-based solutions and big data frameworks like Spark and Hadoop. I’m excited to collaborate, learn, and contribute to open-source projects that help make data accessible and valuable. Let’s connect and build something amazing together! 🚀
 
 - 📫 How to reach me **chandanpatnaik23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandan patnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan patnaik" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/chandan-patnaik-10698424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan patnaik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
