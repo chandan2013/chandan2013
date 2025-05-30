@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 elcome to my GitHub! I’m an aspiring data engineer, passionate about building robust, scalable data pipelines and transforming raw data into actionable insights. Here, you’ll find projects that explore everything from data wrangling and ETL processes to working with cloud-based solutions and big data frameworks like Spark and Hadoop. I’m excited to collaborate, learn, and contribute to open-source projects that help make data accessible and valuable. Let’s connect and build something amazing together! 🚀
+- 🌱 Welcome to my GitHub! I’m an aspiring data engineer, passionate about building robust, scalable data pipelines and transforming raw data into actionable insights. Here, you’ll find projects that explore everything from data wrangling and ETL processes to working with cloud-based solutions and big data frameworks like Spark and Hadoop. I’m excited to collaborate, learn, and contribute to open-source projects that help make data accessible and valuable. Let’s connect and build something amazing together! 🚀
 
 - 📫 How to reach me **chandanpatnaik23@gmail.com**
 
